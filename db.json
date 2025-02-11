@@ -1,0 +1,54 @@
+{
+  "colors": [
+    {
+      "name": "Lilac Purple",
+      "hex": "#e8d1ff",
+      "id": 1
+    },
+    {
+      "name": "Cherry Red",
+      "hex": "#fb7e7e",
+      "id": 6
+    },
+    {
+      "name": "Blush Rose",
+      "hex": "#fed2f0",
+      "id": 7
+    },
+    {
+      "name": "Vanila Yellow",
+      "hex": "#fcffd6",
+      "id": 8
+    },
+    {
+      "name": "Aquamarin Blue",
+      "hex": "#80ffd9",
+      "id": 9
+    },
+    {
+      "name": "Sky Blue",
+      "hex": "#cce5ff",
+      "id": 10
+    },
+    {
+      "name": "Peach Orange",
+      "hex": "#ffdbb3",
+      "id": 11
+    },
+    {
+      "name": "Mint Green",
+      "hex": "#c8fedb",
+      "id": 12
+    },
+    {
+      "name": "Pearl White",
+      "hex": "#f9f2e7",
+      "id": 13
+    },
+    {
+      "name": "Granit Black",
+      "hex": "#3e3d3d",
+      "id": 14
+    }
+  ]
+}
